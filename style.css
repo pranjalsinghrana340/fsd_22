@@ -4,5 +4,22 @@
     box-sizing: border-box;
 }
 body{
-    background-color: aqua;
+    background-color: rgb(30, 230, 187);
+}ul{
+    text-align: right;
+    padding: 10px;
+    background-color: antiquewhite;
+}
+li{
+    display: inline-block;
+}
+a{
+  text-decoration: none;
+  font-size: 1.25px;
+  color: blueviolet;
+  font-weight: 800;
+}
+li{
+    padding: 0;
+    background-color: rgb(95, 190, 241);
 }
